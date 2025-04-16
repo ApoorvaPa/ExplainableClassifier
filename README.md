@@ -12,7 +12,21 @@ An AI-powered system to classify transaction risks and generate natural language
 
 ## Project Structure
 
-transaction-risk-classifier/ ├── app/ # FastAPI application │ ├── api/ # API routes │ ├── core/ # Config and logging │ ├── services/ # Classifier and LangChain logic │ ├── models/ # Pydantic models │ └── main.py # Entry point ├── langchain_modules/ # LangChain templates and chain setup ├── tests/ # Unit and integration tests ├── .github/workflows/ # CI workflows ├── Dockerfile ├── docker-compose.yml ├── requirements.txt └── README.md
+
+transaction-risk-classifier/
+├── app/ # FastAPI application
+│ ├── api/ # API routes
+│ ├── core/ # Config and logging
+│ ├── services/ # Classifier and LangChain logic
+│ ├── models/ # Pydantic models
+│ └── main.py # Entry point
+├── langchain_modules/ # LangChain templates and chain setup
+├── tests/ # Unit and integration tests
+├── .github/workflows/ # CI workflows
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
 
 ## Quickstart
 
