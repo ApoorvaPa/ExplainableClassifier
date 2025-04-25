@@ -1,0 +1,42 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.env
+*.egg
+*.egg-info/
+*.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environment
+trisk_rag/
+
+# Data files (optional)
+*.csv
+*.zip
+
+# Model artifacts
+*.joblib
+*.pkl
+*.h5
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# dotenv / secrets
+.env
+.env.*
+# Ignore all CSVs
+*.csv
+
+# But keep this one
+!sample_submission.csv
