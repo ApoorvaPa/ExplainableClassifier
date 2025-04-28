@@ -11,7 +11,6 @@ An AI-powered system to classify transaction risks and generate natural language
 - CI/CD Ready: GitHub Actions integration for testing and deployment workflows.
 
 
-## Quickstart
 
 ### 1. Clone the Repo
 ```bash
