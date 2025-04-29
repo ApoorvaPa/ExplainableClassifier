@@ -8,7 +8,7 @@ An AI-powered system to classify transaction risks and generate natural language
 - LangChain Explanations: Uses LLMs to generate human-readable justifications for high-risk classifications.
 - FastAPI Backend: Provides RESTful APIs for classification and explanation.
 - Audit-Ready Logging: Centralized structured logging for traceability.
-- CI/CD Ready: GitHub Actions integration for testing and deployment workflows.
+- CI/CD Ready: GitHub Actions integration for automated workflows.
 
 
 
